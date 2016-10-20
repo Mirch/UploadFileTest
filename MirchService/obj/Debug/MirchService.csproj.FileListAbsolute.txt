@@ -1,0 +1,10 @@
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\obj\Debug\MirchService.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\bin\Debug\MirchService.dll.config
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\bin\Debug\MirchService.dll
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\bin\Debug\MirchService.pdb
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\obj\Debug\MirchService.dll
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\obj\Debug\MirchService.pdb
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\bin\Debug\Core.dll
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\bin\Debug\DataAccessLayer.dll
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\bin\Debug\Core.pdb
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\MirchService\bin\Debug\DataAccessLayer.pdb

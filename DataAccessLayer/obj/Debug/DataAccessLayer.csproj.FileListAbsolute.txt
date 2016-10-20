@@ -1,0 +1,7 @@
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\DataAccessLayer\bin\Debug\Core.dll
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\DataAccessLayer\bin\Debug\Core.pdb
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Vaio\Desktop\ucn\sem3\Stuff\MVCTestProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
